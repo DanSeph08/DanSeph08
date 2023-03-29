@@ -3,7 +3,7 @@
 
 <br>
 
-<p I am a boy passionate about technology and learning, I love frontend development, I have knowledge in the Javascript programming language with frameworks React, Redux, Node, Express, Sequealize, Postgress. Currently, I am deepening in React-Native and Typescript. I consider myself a resilient person, perseverant, self-taught, I like to work in a team, I can adapt to different environments and situations. />
+I am a boy passionate about technology and learning, I love frontend development, I have knowledge in the Javascript programming language with frameworks React, Redux, Node, Express, Sequealize, Postgress. Currently, I am deepening in React-Native and Typescript. I consider myself a resilient person, perseverant, self-taught, I like to work in a team, I can adapt to different environments and situations.
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=DanSeph08&label=Profile%20views&color=0e75b6&style=flat"
     alt="DanSeph08" /> 
