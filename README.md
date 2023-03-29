@@ -14,7 +14,7 @@ I am a boy passionate about technology and learning, I love frontend development
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Web Development, React-Native and Typescript. 
 
 - 📫 How to reach me **sebastian1.0.7.p@gmail.com**
 
